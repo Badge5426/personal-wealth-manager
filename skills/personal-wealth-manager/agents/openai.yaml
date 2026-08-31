@@ -1,0 +1,4 @@
+interface:
+  display_name: "个人财富管理"
+  short_description: "盘清资产与现金流，清理杂乱持仓，建立核心配置、风险纪律与长期复利"
+  default_prompt: "使用 $personal-wealth-manager，帮我盘清个人财务资产和现金流，识别重复、陌生或不合适的持仓，并结合中国大陆环境、家庭授权和风险承受能力，建立核心配置、长期复利与睡后收入路径。"
